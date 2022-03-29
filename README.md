@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @HydroApps
-- 👀 I’m interested in coding and deploying apps... both CLI and GUI .
-- You can contact me through telegram/ discord:
-- Telegram: @Loki_Laufeyson_6_8_1949 
-- Discord:Loki_Laufeyson#2473
+@HydroApps deploys 💻 both CLI and GUI applications made mainly in 🐍 Python.
+You are free to contact me regarding any issues/problems in any of my apps 👍.
+Telegram: https://t.me/Loki_Laufeyson_2473
+.Discord: 
 
 <!---
 HydroApps/HydroApps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
