@@ -4,7 +4,7 @@ HydroApps deploys 💻 both CLI and GUI applications made mainly in 🐍 Python.
 
 -Discord: Loki_Laufeyson#2473
 
-Note: Telegram channel will no longer be available
+Join our Telegram Channel for news of new updates. [https://t.me/HydroApps616]
 <!--
 **HydroApps/HydroApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
